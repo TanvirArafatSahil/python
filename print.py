@@ -1,3 +1,4 @@
-print("hello")
-a=input("please enter your name: ")
-print(a)
+a= input("Enter a number")
+b= input("Enter another number")
+sum=float(a)+float(b)
+print(sum)
